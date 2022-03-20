@@ -8,3 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Changelog
 - ReadME
+
+## [0.0.0] - 2022-03-20
+### Added
+- Boilerplate from Material UI's example create-react with typescript
+### Changed
+- Boilerplate package.json to fit project name, version
+- Readme to include running instructions
